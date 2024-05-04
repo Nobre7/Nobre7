@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=39&center=true&vCenter=true&width=1000&lines=Olá+Rede,+Eu+Sou+o+Jack+Nobre;Estudante+Analise+e+Desenvolvimento+de+Sistemas;Bem+Vindos!+:%50)](https://git.io/typing-svg)
 
 <p align="center">
-  Olá! Sou um profissional apaixonado por tecnologia, atualmente cursando Análise de Sistemas de Sistemas (2º Semestre) </p>
+  Olá! Sou um profissional apaixonado por tecnologia, atualmente cursando Análise de Sistemas (2º Semestre) </p>
   
  <p align="center"> Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
   </p>
