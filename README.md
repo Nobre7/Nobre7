@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6A5ACD&height=120&section=header&text="/>
 
-<img src = "octocat-1714848424298.png" width = "100px" align = "left">
+<img src = "octocat-1714848424298.png" width = "250px" align = "left">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=39&center=true&vCenter=true&width=1000&lines=Olá+Rede,+Eu+Sou+o+Jack+Nobre;Estudante+Analise+e+Desenvolvimento+de+Sistemas;Bem+Vindos!+:%50)](https://git.io/typing-svg)
 
