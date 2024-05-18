@@ -2,7 +2,7 @@
 
 <img src = "octocat-1714848424298.png" width = "250px" align = "left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=39&center=true&vCenter=true&width=1000&lines=Olá+Rede,+Eu+Sou+o+Jack+Nobre;Estudante+Analise+e+Desenvolvimento+de+Sistemas;Bem+Vindos!+:%50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=39&center=true&vCenter=true&width=1000&lines=Olá+Rede,+Eu+Sou+o+Jack+Nobre;Estudante+ADS;Bem+Vindos!+:%50)](https://git.io/typing-svg)
 
 <p align="center">
   Olá! Sou um profissional apaixonado por tecnologia, atualmente cursando Análise de Sistemas (2º Semestre) </p>
