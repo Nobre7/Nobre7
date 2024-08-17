@@ -2,10 +2,10 @@
 
 <img src = "octocat-1714848424298.png" width = "250px" align = "left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=39&center=true&vCenter=true&width=1000&lines=Olá+Rede,+Eu+Sou+o+Jack+Nobre;Estudante+ADS;Bem+Vindos!+:%50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=39&center=true&vCenter=true&width=1000&lines=Olá+Rede,+Eu+Sou+Jack+Nobre;Estudante+de+DS;Bem+Vindos!+:%50)](https://git.io/typing-svg)
 
 <p align="center">
-  Olá! Sou um profissional apaixonado por tecnologia, atualmente cursando Análise de Sistemas (2º Semestre) </p>
+  Olá! Sou um profissional apaixonado por tecnologia, atualmente cursando Desenvolvimento de Sistemas na Etec </p>
   
  <p align="center"> Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
   </p>
@@ -30,12 +30,11 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
     
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-coutinho-50397b276)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jack-Nobre-50397b276)
 </div> 
 
 ### Habilidades principais:
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;          
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### Ferramentas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
